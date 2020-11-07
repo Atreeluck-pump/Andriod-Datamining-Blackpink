@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Who like BackPink</string>
+    <string-array name="education">
+        <item>เลือก</item>
+        <item>ประถมศึกษา</item>
+        <item>มัธยมศึกษา</item>
+        <item>อนุปริญญา</item>
+        <item>ปริญญาตรี</item>
+        <item>ปริญญาโท</item>
+        <item>ปริญญาเอก</item>
+    </string-array>
+
+    <string-array name="career">
+        <item>เลือก</item>
+        <item>นักเรียน</item>
+        <item>พนักงานบริษัท</item>
+        <item>ข้าราชการ</item>
+        <item>ธุรกิจส่วนตัว</item>
+        <item>อื่นๆ</item>
+    </string-array>
+
+    <string-array name="hobby">
+        <item>เลือก</item>
+        <item>ออกกำลังกาย</item>
+        <item>เล่นดนตรี</item>
+        <item>วาดรูป</item>
+        <item>ฟังเพลง</item>
+        <item>ดูภาพยนตร์</item>
+        <item>ทำอาหาร</item>
+        <item>เล่นเกมส์</item>
+        <item>อื่นๆ</item>
+    </string-array>
+
+    <string-array name="category">
+        <item>เลือก</item>
+        <item>Pop</item>
+        <item>Rap &amp; Hip-hop</item>
+        <item>Rock</item>
+        <item>R&amp;B</item>
+        <item>EDM</item>
+        <item>ลูกทุ่ง</item>
+        <item>เพื่อชีวิต</item>
+        <item>อื่นๆ</item>
+    </string-array>
+</resources>
